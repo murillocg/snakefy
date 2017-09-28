@@ -1,0 +1,8 @@
+amazon:
+  aws:
+    access-key-id: ${AWS_ACCESS_ID}
+    access-key-secret: ${AWS_ACCESS_SECRET}
+    
+logging: 
+  level:
+    com.rgbsoftware.snakefy: trace
